@@ -38,6 +38,10 @@ I am proficient in a variety of design and development tools, including:
     * CSS3
     * JavaScript
 
+## Aurthor
+- Deepika A
+- Aspiring Graphic Designer and UI/UX Designer.
+
 ## 📞 Get In Touch
 
 I'm always open to new opportunities, collaborations, and conversations about design. Feel free to connect with me!
@@ -49,10 +53,7 @@ I'm always open to new opportunities, collaborations, and conversations about de
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License, see the LICENSE.md file for details.
 
----
-## Aurthor
-- Deepika A
-- Aspiring Graphic Designer and UI/UX Designer.
+  
 **Thank you for visiting my portfolio!** ✨
