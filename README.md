@@ -6,11 +6,10 @@ Welcome to my digital portfolio! This space showcases a collection of my design 
 
 Here's a glimpse into some of the projects featured in my portfolio:
 
-### 📱 UI/UX Design: Whimsical Mobile App Onboarding & Login
+### 📱 UI/UX Designs
 * **Description:** This project demonstrates a user-friendly mobile application interface with a whimsical theme, focusing on engaging onboarding and streamlined login experiences. It features a charming character and a warm color palette to create an inviting user journey.
 * **Key Skills:** UI Design, UX Principles, Mobile-First Design, Onboarding Flow, Character Integration, Color Theory, Typography, User-Centric Design.
-* **Tools Used:** [e.g., Figma, Adobe XD, Sketch]
-* **Live Preview (if applicable):** [Link to a live demo or more screenshots on your GitHub/Behance if not directly on the portfolio]
+* **Tools Used:**  Figma and Canva
 
 ### 🎨 Logo Design & Brand Identity
 * **Description:** A collection of diverse logo designs showcasing versatility in creating unique and memorable brand identities. This section includes examples like:
@@ -18,24 +17,23 @@ Here's a glimpse into some of the projects featured in my portfolio:
     * **"Arise":** A minimalist and inspirational design with a rising sun motif, symbolizing new beginnings.
     * **"Queen":** A modern and regal logo combining an abstract crown with vibrant gradient typography.
 * **Key Skills:** Brand Conceptualization, Typography, Color Theory, Vector Graphics, Visual Identity, Client Brief Interpretation.
-* **Tools Used:** [e.g., Adobe Illustrator, Canva, Figma]
+* **Tools Used:**  Canva, Figma
 
 ### 😂 Meme Creations / Creative Content
 * **Description:** This section highlights my ability to create engaging and relatable visual content using current trends and humor. It demonstrates my understanding of digital culture and my skill in crafting concise, impactful visual messages.
 * **Key Skills:** Visual Storytelling, Humorous Content Creation, Trend Analysis, Digital Content Adaptation.
-* **Tools Used:** [e.g., Canva, Photoshop]
+* **Tools Used:** Canva, Photopea
 
 ## 🛠️ Technologies & Tools
 
 I am proficient in a variety of design and development tools, including:
 
 * **Design Software:**
-    * [e.g., Figma]
-    * [e.g., Adobe XD]
-    * [e.g., Adobe Illustrator]
-    * [e.g., Adobe Photoshop]
-    * [e.g., Canva]
-* **Front-End Development (if applicable):**
+    * Figma
+    * Canva
+    * Photopea
+    * SketchBook
+* **Front-End Development :**
     * HTML5
     * CSS3
     * JavaScript
@@ -44,10 +42,10 @@ I am proficient in a variety of design and development tools, including:
 
 I'm always open to new opportunities, collaborations, and conversations about design. Feel free to connect with me!
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/your-linkedin-username/)
-* **GitHub:** [https://github.com/DeepikaA777](https://github.com/DeepikaA777)
-* **Behance:** [https://www.behance.net/deepikaa16](https://www.behance.net/deepikaa16)
+* **Email:** deepika20060208@gmail.com
+* **LinkedIn:** www.linkedin.com/in/deepika-a-21754b302
+* **GitHub:** https://github.com/DeepikaA777
+* **Behance:** https://www.behance.net/deepikaa16
 
 ## 📄 License
 
